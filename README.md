@@ -36,13 +36,13 @@ TaskStoic transforms your monthly overview into a calm, organized experience.
 
 ### Daily Wisdom, Thoughtfully Presented
 
-- [x] Live Quotes: Fetches meaningful insights from the Stoic Quotes API
-- [x] Offline Reliability: Automatically switches to curated local quotes if the network is unavailable
-- [x] Interactive Refresh: Tap to reveal a new quote instantly
-- [x] Tactile Feedback: Subtle haptics and a gentle bounce animation elevate every interaction
-- [x] Auto-Refresh: A fresh quote awaits each time you return to the tab
-- [x] Premium Typography: Styled with attributed strings for a refined, readable presentation
-- [x] Smooth Fade-In: Each quote appears with a clean, calming animation
+- [x] **Live Quotes:** Fetches meaningful insights from the Stoic Quotes API
+- [x] **Offline Reliability:** Automatically switches to curated local quotes if the network is unavailable
+- [x] **Interactive Refresh:** Tap to reveal a new quote instantly
+- [x] **Tactile Feedback:** Subtle haptics and a gentle bounce animation elevate every interaction
+- [x] **Auto-Refresh:** A fresh quote awaits each time you return to the tab
+- [x] **Premium Typography:** Styled with attributed strings for a refined, readable presentation
+- [x] **Smooth Fade-In:** Each quote appears with a clean, calming animation
 
 A serene space for reflection, designed to bring clarity and calm into your day.
 
